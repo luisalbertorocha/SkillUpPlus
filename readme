@@ -1,0 +1,32 @@
+# 📱 SkillUpPlus – Global Solution 2025.2
+
+Aplicativo mobile desenvolvido em **React Native** como parte da Global Solution FIAP.  
+Seu objetivo é apoiar o estudo, organizar conteúdos educativos e conectar temas às **ODS da ONU**.
+
+---
+
+## 🔐 Login
+
+Para entrar no app, utilize as credenciais:
+
+Email: teste@teste.com
+Senha: 123
+
+yaml
+Copiar código
+
+---
+
+## 📚 Funcionalidades
+
+- Tela de login com validação de credenciais  
+- Home com filtro por ODS (4, 8, 9 e 10)  
+- Exibição de temas relacionados a cada ODS  
+- Tela de conteúdo com textos explicativos  
+- Interface em modo escuro, com logo própria do projeto  
+- Estilos padronizados usando um arquivo global de estilos  
+- Uso de componentes básicos do React Native:
+  - `View`, `Text`, `ScrollView`, `TextInput`, `Image`
+  - `TouchableOpacity`, `Alert`, `Picker`
+  - `StyleSheet`  
+- Navegação utilizando Stack e Tabs (`React Navigation`)
